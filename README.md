@@ -4,4 +4,6 @@ These are the various and sundry files used to make the hackerspace status switc
 
 ## Fonts
 
+Fonts used for the main label are tbd.
+
 Fonts used for the fuse label are Crawley https://www.dafont.com/crawley.font and Gloucester MT Extra Condensed https://www.dafontfree.net/gloucester-mt-extra-condensed-regular/f64860.htm
